@@ -1,0 +1,42 @@
+{
+  "identifier": "orchidkeeper",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Orchidkeeper Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "orchidkeeper_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks unlimited orchids and rebloom history timeline.",
+              "displayName": "Orchidkeeper Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "orchidkeeper_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Orchidkeeper Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
